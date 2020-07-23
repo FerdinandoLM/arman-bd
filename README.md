@@ -1,6 +1,7 @@
-### Hi there 👋
+# Hi there I'm Arman Hossain
+## Currently working as a Software Engineer at RiseupLabs
 
-#Career Summary:
+### Career Summary:
 ------------------------------------------------------------
 * Efficient planning with time management skill, decision making, self-motivated, 
   strong leadership skill, human resource management skills, 
@@ -12,7 +13,7 @@
 * Analytical skill to understand documentation.
 * Good grasp on others code/work.
 
-#Domain Knowledge:
+### Domain Knowledge:
 ------------------------------------------------------------
 * Android Application Development
 * Web Scrapping / Data Mining
