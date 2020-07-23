@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**arman-bd/arman-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Career Summary:
+------------------------------------------------------------
+» Efficient planning with time management skill, decision making, self-motivated, 
+  strong leadership skill, human resource management skills, 
+  multi-tasking & ability to learn quickly in a fast-paced environment.
+» 5 Years of professional experience with 19+ years of programming skills.
+» Good documentation & journaling skill.
+» Development experience in Desktop, Web, Mobile, REST-API, Cloud-Service / SASS.
+» Good understating of SASS / REST-API.
+» Analytical skill to understand documentation.
+» Good grasp on others code/work.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Domain Knowledge:
+------------------------------------------------------------
+» Android Application Development
+» Web Scrapping / Data Mining
+» Mobile Application Development
+» Web Application Development
+» Desktop Application Development
+» Mass Multimedia Processing
+» SASS / REST-API Development
