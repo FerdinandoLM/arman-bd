@@ -1,5 +1,5 @@
 # Hi there I'm Arman Hossain
-## Currently working as a Software Engineer at RiseupLabs
+## Software Engineer at RiseupLabs
 
 ### Career Summary:
 ------------------------------------------------------------
