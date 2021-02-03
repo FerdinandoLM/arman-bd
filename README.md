@@ -3,6 +3,6 @@
 
 # Hi there, I'm Arman Hossain
 
-## Software Engineer at [Riseup Labs](https://riseuplabs.com)
+## Mobile Application Developer at [Shakti Foundation](https://shakti.org.bd)
 
 ### Feel free to visit my Portfolio @ https://arman-bd.github.io
